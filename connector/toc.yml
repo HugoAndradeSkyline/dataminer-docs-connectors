@@ -8121,7 +8121,7 @@
   - name: Rohde Schwarz SR8100 N+1
     topicUid: Connector_help_Rohde_Schwarz_SR8100_N+1
   - name: Rohde Schwarz SX8000 DTT
-    topicUid: Connector_help_Rohde_Schwarz_SX8000_DTT1
+    topicUid: Connector_help_Rohde_Schwarz_SX8000_DTT
   - name: Rohde Schwarz TCE900 (System 9000)
     topicUid: Connector_help_Rohde_Schwarz_TCE900_(System_9000)
   - name: Rohde Schwarz THR9 FM Dual Drive
